@@ -66,11 +66,7 @@
 <div class="stats" align="left">
 
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledBadranDev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-</div>
-<div align='right'>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KhaledBadranDev&count_private=true&theme=algolia&border_radius=20)
 </div>
 
 <!--  End Stats Cards -->
